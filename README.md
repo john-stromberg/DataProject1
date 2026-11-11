@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [data-analytics-bootcamp-2019/projects/DataProject1](https://github.com/john-stromberg/data-analytics-bootcamp-2019/tree/main/projects/DataProject1).
+> This repository is retained as a historical snapshot.
+
+---
+
 # U.S. GDP vs Homeownership Synopsis
 
 # 1.	Does a higher GDP translate to higher homeownership in that state?
